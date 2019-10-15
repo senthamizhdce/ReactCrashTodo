@@ -1,0 +1,21 @@
+Node.js - is a server runtime environment for running Javascript on the server
+NPM -  is a package manager used to download and install different packages for JavaScript projects.
+
+Instal GIT - https://git-scm.com/
+Instal VS Code - https://code.visualstudio.com/
+Instal Node JS - https://nodejs.org/en/
+
+CLI
+---
+npx create-react-app react-app
+cd react-app
+npm start
+secho "# react-app" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/senthamizhdce/react-app.git
+git push -u origin master
+
+Run
+---
