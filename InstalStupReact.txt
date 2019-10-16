@@ -8,6 +8,7 @@ Instal Node JS - https://nodejs.org/en/
 React Developer Tools Chrome - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 Extension Code Snippets - ES7 React/Redux/GraphQL/React-Native snippets
 rce tob to create react component export
+rfc tab to create react functional component
 
 Editor
 ------
