@@ -1,0 +1,1 @@
+Format VSC - Shift + Alt + F 
