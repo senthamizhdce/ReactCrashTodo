@@ -1,14 +1,43 @@
 
 Node.js - is a server runtime environment for running Javascript on the server
-NPM -  is a package manager used to download and install different packages for JavaScript projects.
+NPM -  Node Package Manager - is a package manager used to download and install different packages for JavaScript projects.
 
 Instal GIT - https://git-scm.com/
 Instal VS Code - https://code.visualstudio.com/
 Instal Node JS - https://nodejs.org/en/
 React Developer Tools Chrome - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 Extension Code Snippets - ES7 React/Redux/GraphQL/React-Native snippets
-rce tob to create react component export
-rfc tab to create react functional component
+1. rce tob to create react component export
+2. rfc tab to create react functional component
+
+NPM Install
+-----------
+npm i uuid - Extension for Unigue ID - i for install
+npm i react-router-dom
+npm i axios - Install REST Call (also can use fetch)
+npm run build - To build diploy
+???
+  npm install -g serve
+  serve -s build
+
+Host or Deploy React in github
+------------------------------
+npm run build - will crreate build folder
+
+Supprting link
+--------------
+JSONPlaceholder - https://jsonplaceholder.typicode.com/
+
+Short cut
+---------------
+Move line up ???
+1. rce tob to create react component export
+2. rfc tab to create react functional component
+
+REST JSON Services
+------------------
+https://jsonplaceholder.typicode.com/todos
+https://jsonplaceholder.typicode.com/todos/1
 
 Editor
 ------
