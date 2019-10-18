@@ -16,11 +16,9 @@ npm i uuid - Extension for Unigue ID - i for install
 npm i react-router-dom
 npm i axios - Install REST Call (also can use fetch)
 npm run build - To build diploy
-create-react-app --version -Will show created version of app
 ???
   npm install -g serve
   serve -s build
-  create-react-app --version
 
 Host or Deploy React in github
 ------------------------------
