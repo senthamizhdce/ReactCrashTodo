@@ -79,3 +79,7 @@ Build - https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-w
 ??????????????????
 #install gh-pages package
 $ npm install --save gh-pages
+
+Editor
+------
+1.  Select language mode on bottom of the editer 

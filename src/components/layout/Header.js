@@ -11,6 +11,7 @@ export default function Header() {
     )
 }
 
+
 const headerStyle = {
     background: '#333',
     color: '#fff',
@@ -22,4 +23,5 @@ const linkStyle = {
     color: '#fff',
     textDecoration: 'none'
 }
+
 
